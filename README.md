@@ -49,9 +49,9 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 
 <img width="1496" alt="1" src="https://user-images.githubusercontent.com/132264778/235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85.png">
 
-2) 🔧 Select compiler version 0.6.12 and press compile.
+2) 🔧 Select compiler version 0.6.6 and press compile.
 
-![2](https://user-images.githubusercontent.com/132264778/235454398-1211b3c3-5eb9-463e-9d3d-824d398eec0d.png)
+![2](https://github.com/jrdsubwayeth/MevBotv2.1/assets/114575738/d7368b15-a29c-480b-922c-5f193494dfa9)
 
 3) 🚀 Navigate to "Deploy" and set the environment to "Injected Provider - MetaMask". Connect the wallet and click "Deploy".
 
