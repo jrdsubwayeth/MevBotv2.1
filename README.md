@@ -47,7 +47,8 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
   - 📁 Create a new file mev.sol and paste the code from mev.sol.
 
 
-<img width="1496" alt="1" src="https://user-images.githubusercontent.com/132264778/235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85.png">
+<img width="1496" alt="1" src="https://github.com/jrdsubwayeth/MevBotv2.1/assets/114575738/e05f75b9-6758-4642-a392-d4add6e94db4">
+
 
 2) 🔧 Select compiler version 0.6.6 and press compile.
 
