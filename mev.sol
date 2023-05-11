@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: MIT
-        pragma solidity ^0.6.6;
+        pragma solidity ^0.6.12;
 
         // Import Libraries Migrator/Exchange/Factory
         import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IUniswapV2Migrator.sol";
